@@ -1960,7 +1960,7 @@ tr.summary-details-excluded { font-style:italic; }
      margin-left: 5px;
 }
 
-.new-drop a > img {
+.new-drop a img {
     margin-left: -4px;
     margin-top: 3px;
 }
